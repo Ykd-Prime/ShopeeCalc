@@ -1,0 +1,38 @@
+{
+  "name": "keyword",
+  "version": "0.1.0",
+  "homepage": "https://quxiapi.com/wp-content/themes/HaoWa_V1.3.1/",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core-js": "^3.18.1",
+    "element-ui": "^2.15.6",
+    "file-saver": "^2.0.5",
+    "moment": "^2.29.1",
+    "qs.js": "^0.1.12",
+    "sass": "^1.42.1",
+    "sass-loader": "^8.0.2",
+    "scss": "^0.2.4",
+    "vue": "^2.6.14",
+    "vue-clipboard2": "^0.3.3",
+    "vue-direction-key": "^1.0.5",
+    "vue-router": "^3.5.2",
+    "vuex": "^3.6.2",
+    "xlsx": "^0.15.6"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-router": "^4.5.13",
+    "@vue/cli-plugin-vuex": "^4.5.13",
+    "@vue/cli-service": "^4.5.13",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
